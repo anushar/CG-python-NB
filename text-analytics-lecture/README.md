@@ -1,1 +1,1 @@
-# CG-python-NB
+# guest_lecture_text_recognition
