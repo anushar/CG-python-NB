@@ -1,1 +1,2 @@
-# CG-python-NB
+# weekly-lectures
+
